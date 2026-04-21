@@ -44,13 +44,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=kmrr-nikhil&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=kmrr-nikhil&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Current Focus  
 > Becoming a **top-tier SDE** with strong DSA + System Design + Automation expertise  
