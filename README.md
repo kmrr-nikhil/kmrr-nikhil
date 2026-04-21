@@ -1,15 +1,68 @@
-# 💫 About Me:
-💼 I’m currently working at PTC Software, Pune<br>🤝 I’m looking to collaborate on automation testing frameworks, Java-based projects, and end-to-end testing solutions (Selenium & Playwright)<br>🆘 I’m looking for help with advanced DSA, system design, and improving problem-solving speed<br>🌱 I’m currently learning JavaScript, Data Structures & Algorithms, Selenium, and Playwright for modern web automation<br>💬 Ask me about Selenium, Playwright, automation testing, debugging, and coding interview prep<br>⚡ Fun fact: I play chess — check me out on chess.com: kmrr_nikhil
+# 👋 Hey, I'm Nikhil Kumar  
 
+💼 Software Engineer @ **PTC Software, Pune**  
+🚀 Passionate about **Automation Testing, Scalable Systems & Problem Solving**  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nikhilkumar_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilkumar9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kmrr-nikhil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilkumar971@outlook.com) 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kmrr-nikhil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kmrr-nikhil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kmrr-nikhil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧠 About Me  
+- 🔭 Building **automation frameworks** using Selenium & Playwright  
+- 🤝 Open to collaborate on **Java, Testing Frameworks & E2E Automation**  
+- 🌱 Currently learning **JavaScript, DSA & System Design**  
+- ⚡ Improving **problem-solving speed & coding interview skills**  
+- ♟️ Fun fact: I play chess → *chess.com: kmrr_nikhil*  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect With Me  
+<p align="left">
+<a href="https://discord.gg/nikhilkumar_dev"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://linkedin.com/in/nikhilkumar9"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://x.com/kmrr-nikhil"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="mailto:nikhilkumar971@outlook.com">
+  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" height="48"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack  
+
+### 🚀 Core  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🧪 Automation & Testing  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### ⚙️ Backend & Tools  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ DevOps & Tools  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 📌 Featured Projects  
+- 🔹 Automation Framework using Selenium + TestNG  
+- 🔹 Playwright E2E Testing Suite  
+- 🔹 API Testing with Postman & Node.js  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=kmrr-nikhil&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=kmrr-nikhil&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus  
+> Becoming a **top-tier SDE** with strong DSA + System Design + Automation expertise  
