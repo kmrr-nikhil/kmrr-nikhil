@@ -14,18 +14,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-<a href="https://discord.gg/nikhilkumar_dev"><img src="https://skillicons.dev/icons?i=discord" /></a>
-<a href="https://linkedin.com/in/nikhilkumar9"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://x.com/kmrr-nikhil"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="mailto:nikhilkumar971@outlook.com">
-  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" height="48"/>
-</a>
-</p>
-
----
-
 ## 💻 Tech Stack  
 
 ### 🚀 Core  
